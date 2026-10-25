@@ -7,6 +7,10 @@ Nuestro objetivo es que organizar una colección sea tan satisfactorio como ampl
 
 > **Estado del proyecto:** desarrollo activo · versión de pruebas (alfa). Algunas funciones descritas abajo están en desarrollo y se indican como tales.
 
+## 📦 Próxima APK para Android
+
+Se ha verificado el archivo de prueba **CardQuest Vision v0.3.1-beta** (actualizador integrado). **Su APK todavía no está adjunta a GitHub Releases**. Consulta [notas y SHA-256](NOTAS-v0.3.1-beta.md) para saber qué se ha comprobado y cómo publicarla.
+
 ## 📦 Actualización en preparación
 
 **CardQuest Vision v0.3.0:** nuevas secciones de Mercado, herramientas de copia/importación del álbum y fichas mejoradas. **La APK v0.3.0 todavía está pendiente de compilar y probar en Android; no está disponible en Releases.** Lee las [notas de actualización](ACTUALIZACION-v0.3.0.md) para conocer los cambios y las limitaciones.
